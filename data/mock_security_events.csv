@@ -1,0 +1,5 @@
+ts,event_type,device_id,severity,detail
+2026-02-18T14:05:30Z,replay_detected,device_002,critical,"{\"nonce\":\"seed-005\"}"
+2026-02-18T14:09:10Z,unauthorized_device,device_x,high,"{\"reason\":\"device_not_whitelisted\"}"
+2026-02-18T14:13:45Z,stale_message,device_003,medium,"{\"reason\":\"timestamp_skew\"}"
+2026-02-18T14:17:20Z,invalid_payload,device_001,high,"{\"errors\":[\"invalid:ts\"]}"

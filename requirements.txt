@@ -1,0 +1,6 @@
+paho-mqtt==1.6.1
+streamlit==1.31.1
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.20.0
+cryptography==42.0.8
